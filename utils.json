@@ -1,0 +1,29 @@
+{
+    "name": "rest-rules",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-ObjectError": {
+            "owner": "aramtech",
+            "repo": "rest-ObjectError",
+            "update_policy": "major",
+            "version": "0.1.0"
+        },
+        "rest-internationalization": {
+            "owner": "aramtech",
+            "repo": "rest-internationalization",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "owner": "aramtech",
+    "private": false,
+    "public_repo": false,
+    "hash": "sRrBuioBquo3Op_yImNwJib5IRtNM801LA3C9FnDQyk",
+    "version": "0.4.1",
+    "description": ""
+}
